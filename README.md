@@ -76,11 +76,11 @@
 本地服务器筛选(不定时更新),可自行clone项目,执行localFilter.bat生成
 
 - github action (  [节点详情](./sub/info.md) )
-  - [ss](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/ss)
-  - [ssr](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/ssr)
-  - [v2ray](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/v2)
-  - [trojan](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/tr)
-  - [四合一转换](https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all)
+  - [ss](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/ss)
+  - [ssr](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/ssr)
+  - [v2ray](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/v2)
+  - [trojan](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/tr)
+  - [四合一转换](https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/all)
 
 
 - 
