@@ -81,7 +81,7 @@
   - [v2ray](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/v2)
   - [trojan](https://raw.fastgit.org/zzz6839/SubCrawler/master/sub/share/tr)
   - [四合一转换](https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/all)
-
+  - [四合一有效节点转换](https://raw.githubusercontent.com/zzz6839/SubCrawler/main/sub/share/available)
 
 - 
   本地构建 (  [节点详情](./sub/info2.md) )
